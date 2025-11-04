@@ -3,11 +3,11 @@ import './App.css'
 import React, { useState } from 'react';
 import './index.css';
 
-import founder1Img from './assets/founder1.svg'
-import founder2Img from './assets/founder2.svg'
+// import founder1Img from './assets/founder1.svg'
+// import founder2Img from './assets/founder2.svg'
 import team1Img from './assets/team1.svg'
 import team2Img from './assets/team2.svg'
-
+import CEO from './assets/CEO.jpeg'
 import hattiKappi01 from './assets/hattiKappi01.jpeg'
 import hattiKappi02 from './assets/hattiKappi02.jpeg'
 
@@ -43,22 +43,27 @@ export default function OurTeam() {
       fullBio: `Ms. Harshini is a dynamic finance leader who bridges global fiscal strategy with operational intelligence. As the Chief Finance Officer and Head of International Sourcing at Matrix Metals LLP, she commands both the analytical precision of a financial strategist and the negotiation acumen of a global trader. Her expertise spans international vendor engagement, import cost modeling, and foreign-exchange risk management, ensuring every procurement decision strengthens profitability and compliance. Harshini’s leadership has positioned HATTI FOOD AND BEVERAGES PRIVATE LIMITED of Bengaluru, Karnataka as a benchmark in cost-rationalized, regulation-compliant international trade, building lasting partnerships across Asia and Europe. A firm believer that "finance is the language of trust," she integrates ethics, transparency, and measurable growth into every fiscal decision — harmonizing cashflow efficiency with long-term enterprise value. Core Expertise: Global Vendor Negotiation (China, Europe & ASEAN markets); Letters of Credit & Trade Finance Compliance; EPCG, MOOWR & Duty Exemption Scheme Optimization; Cost Rationalization & Working Capital Control; FX Hedging & Cashflow Forecasting; Cross-functional Leadership & Risk Governance.`,
     },
     {
-      name: "Suresh Naidu",
-      role: "Co-Founder & Managing Director",
+      name: "Mr. Amit ",
+      role: "Finance & Domestic Sourcing Head – Hatti Kappi Foods Private Limited (CMO)",
       image: hattiKappi01,
       bio: "Overcame obstacles with perseverance and leadership to bring authentic coffee experiences to everyone.",
+      fullBio:`Mr. Amit is an integral pillar of Hatti Kappi Foods Private Limited, combining strategic financial management with deep expertise in domestic sourcing and market alignment. His leadership bridges fiscal discipline with creative expansion, ensuring every rupee invested translates into sustainable brand growth. With a keen grasp of India’s fast-evolving supply ecosystem, he has successfully aligned procurement, jobwork optimization, and cost intelligence into one seamless operational framework.`
     },
     {
-      name: "Priya Nair",
-      role: "Head of Operations",
-      image: team1Img,
-      bio: "Leads daily operations ensuring every Hatti Kaapi outlet delivers excellence in taste and service.",
+      name: "Mr. Namish",
+      role: "Chief Executive Officer (CEO)",
+      image: CEO,
+      bio: "Global International Business Development – Hatti Kappi Foods Private Limited.",
+      fullBio: `Mr. Namish leads Hatti Kappi Foods Private Limited’s global business strategy with a visionary balance of entrepreneurship, cultural intelligence, and operational discipline. With a foundation rooted in international marketing, cross-border trade, and strategic partnerships, he drives the company’s global expansion from India to key markets across Europe, the Middle East, and Asia. His leadership embodies the spirit of modern Indian enterprise — combining authenticity, innovation, and sustainability under one unified global brand identity.
+      Under Mr. Namish’s global leadership, Hatti Kappi Foods Private Limited is transforming from a domestic heritage brand into a worldwide ambassador of Indian coffee culture. His strategic blueprint integrates sustainable sourcing, digital transformation, and experiential retailing to position Hatti Kappi as a premium lifestyle brand on par with global benchmarks. Through his foresight and relentless commitment to excellence, Hatti Kappi continues to inspire trust, elevate Indian craftsmanship, and redefine the international café experience.`
     },
     {
-      name: "Amit Sharma",
-      role: "Marketing & Growth Lead",
+      name: "Mr. Jeeteen Jain Mandoth",
+      role: " Chief Operating Officer (COO)",
       image: team2Img,
-      bio: "Crafts strategies that bring the Hatti Kaapi story to life, connecting customers through tradition and taste.",
+      bio: "International Business & Global Merchandise Division – Hatti Kappi Foods Private Limited.",
+      fullBio: `Mr. Jeeteen Jain Mandoth serves as the operational cornerstone of Hatti Kappi Foods Private Limited, leading its international business expansion and global merchandise innovation. His dynamic approach to strategic execution has positioned the company as a forward-thinking Indian enterprise with a robust global footprint. With extensive experience across industrial systems, sourcing networks, and brand architecture, he ensures that every operational layer — from product design to retail execution — reflects Hatti Kappi’s core values of authenticity, sustainability, and excellence.
+      Under Mr. Jeeteen Jain Mandoth’s global stewardship, Hatti Kappi Foods Private Limited continues to evolve as a world-class enterprise that harmonizes India’s heritage with modern global practices. His vision transforms the Global Merchandise Division into a symbol of craftsmanship and innovation — creating products, experiences, and operational excellence that resonate from Bengaluru to Paris. Through his leadership, Hatti Kappi continues its journey as a benchmark for Indian-origin brands in the international hospitality and lifestyle space.`
     },
   ];
 
