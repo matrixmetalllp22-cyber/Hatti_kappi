@@ -17,6 +17,7 @@ import hattiKappi02 from './assets/hattiKappi02.jpeg';
 import CEO from './assets/CEO.jpeg';
 import COO from './assets/COO.jpeg';
 
+
   
 
 // export function Component() {
