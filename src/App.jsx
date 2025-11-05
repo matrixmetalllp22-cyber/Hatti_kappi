@@ -15,7 +15,7 @@ import team1Img from './assets/team1.svg'
 import hattiKappi01 from './assets/hattiKappi01.jpeg';
 import hattiKappi02 from './assets/hattiKappi02.jpeg';
 import CEO from './assets/CEO.jpeg';
-import COO from './assets/COO.jpeg';
+import image01 from './assets/image01.jpeg';
 
 
   
@@ -66,7 +66,7 @@ export default function OurTeam() {
     {
       name: "Mr. Jeeteen Jain Mandoth",
       role: " Chief Operating Officer (COO)",
-      image: COO,
+      image: image01,
       bio: "International Business & Global Merchandise Division – Hatti Kappi Foods Private Limited.",
       fullBio: `Mr. Jeeteen Jain Mandoth serves as the operational cornerstone of Hatti Kappi Foods Private Limited, leading its international business expansion and global merchandise innovation. His dynamic approach to strategic execution has positioned the company as a forward-thinking Indian enterprise with a robust global footprint. With extensive experience across industrial systems, sourcing networks, and brand architecture, he ensures that every operational layer — from product design to retail execution — reflects Hatti Kappi’s core values of authenticity, sustainability, and excellence.
       Under Mr. Jeeteen Jain Mandoth’s global stewardship, Hatti Kappi Foods Private Limited continues to evolve as a world-class enterprise that harmonizes India’s heritage with modern global practices. His vision transforms the Global Merchandise Division into a symbol of craftsmanship and innovation — creating products, experiences, and operational excellence that resonate from Bengaluru to Paris. Through his leadership, Hatti Kappi continues its journey as a benchmark for Indian-origin brands in the international hospitality and lifestyle space.`
